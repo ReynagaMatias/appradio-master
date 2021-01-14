@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UNJu Radio 92.9</string>
+    <string name="tab_text_1">Estrenos</string>
+    <string name="tab_text_2">Podcasts</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="seection_header"><b>Estas escuchando: Radio Universidad</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
